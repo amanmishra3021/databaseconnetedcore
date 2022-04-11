@@ -1,0 +1,3 @@
+
+
+scaffold-DbContext "Server=CHETUIWK820\SQLEXPRESS ;Database=Chetu ;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o DB_Context
